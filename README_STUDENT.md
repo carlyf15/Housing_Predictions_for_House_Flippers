@@ -1,10 +1,9 @@
-# Module 2 Project: Housing Predictions #
+# Module 2 Project: Housing Predictions for House Flippers #
 ________________________________________________________________________________________________________________
 
 ## Overview ##
 ________________________________________________________________________________________________________________
-Buying a home can be a great experience but can also be a processed riddled with complication and unanswered questions, especially in a city as popular as Seattle. Buying a home in a major city can feel like an extremely expensive Ebay auction - you have no idea how many people are bidding on the same home as you and homes often go over asking price within 24 hours of listing. The intention of this project was to use a dataset containing housing information from King County (Seattle, Washington) to predict prices of the housing market. As a buyer, this is invaluable to you because we can help you predict home costs to inform your budget and playing the offer game. Also, our model can help predict the value added to your home when considering renovations. Adding a bathroom? Improving the backyard? Our model can help you perform a cost-benefit analysis and give you a powerful bargaining chip with contractors.
-
+Flipping houses for a living isn't new but in an ever shifitng housing market can be wrought with disapointment. The goal of this project is to create a model that will provide flippers looking to turn houses in King County with information to help make educated business choices. Where do you buy? What features would be most cost effective to add? When do I buy and when do I sell? We use a regression analysis of real estate information from 2014/2015 in this county to help give powerful answers to these questions to give both newcomers and pros the confidence to flip without flopping. 
 
 ## King County ## 
 ________________________________________________________________________________________________________________
@@ -15,7 +14,7 @@ ________________________________________________________________________________
 In this Repo you will find the following:
 
 - 4 ipynbs
-	1. Preprocessing
+	1. [Preprocessing](http://localhost:8888/notebooks/Preprocessing.ipynb)
 	2. Exploratory Data Analysis 
 	3. Modeling + Validation 
 - Non-Technical Presentation 

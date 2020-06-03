@@ -45,6 +45,15 @@ Building a linear regression often requires limiting the scope of the prediction
 
 Additionally there is no information in the dataset regarding some features which are important to buyers such as kitchens, backyards, garages, and school districts. 
 
+## Inquiries ##
+
+1. Which features are most correlated with price?
+2. Is renovation or location more important?
+3. Where are the most expensive houses?
+4. Where are the highest graded houses?
+5. What's more important, bedrooms or bathrooms?
+6. Is it important to sell in a certain month?
+
 ## Recommendations ## 
 
 1. ** GET ON THE WATER ** . If it's within your budget to buy a property on the water and then fix it up, you'll get the best bang for your buck. 

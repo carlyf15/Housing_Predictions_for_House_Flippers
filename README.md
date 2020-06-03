@@ -63,11 +63,11 @@ Additionally there is no information in the dataset regarding some features whic
 
 ## Further Analysis ##
 
-The limitation of this analysis were clearly stated above. Depending on the needs of the individual, this model may not be appropriate. It would be helpful to use the methods presented in this analysis as a template for analysis for custom needs. It would also be interesting to add a few more features to the dataset that tend to be important to buyers such as information concerning the kitchen, backyard (yes/no, size, features), garage (yes/no, sqft), and school districts. 
+The limitations of this analysis were clearly stated above. Depending on the needs of the individual, this model may not be appropriate. It would be helpful to use the methods presented in this analysis as a template for custom needs. It would also be interesting to add a few more features to the dataset that tend to be important to buyers such as information concerning the kitchen, backyard (yes/no, size, features), garage (yes/no, sqft), and school districts. 
 
 ## Self Analysis ##
 
-This project was much more conceptually challenging to me and I can tell there are still some concepts that feel fuzzy, especially validation and interpretation. I felt much more confident in my coding and visualization skills, and didn't feel limited by those things much during this project. Moving forward I feel I need to continue performing linear regression analysis in my spare time to maintain and master the skill. 
+This project was much more conceptually challenging to me and I can tell there are still some concepts that feel fuzzy, especially validation and interpretation. I felt much more confident in my coding and visualization skills, and didn't feel limited by those as frequently during this project. Moving forward I feel I need to continue performing linear regression analysis in my spare time to maintain and master the skill. 
 
 # Thank you & Happy Flipping! #
 

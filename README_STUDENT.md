@@ -1,5 +1,5 @@
 # Module 2 Project: Housing Predictions for House Flippers #
-
+! [](King_County.png)
 
 ## Overview ##
 
@@ -47,13 +47,20 @@ Additionally there is no information in the dataset regarding some features whic
 
 ## Recommendations ## 
 
-1. ** GET ON THE WATER ** . If it's within your budget to buy a property on the water and then fix it up, you'll gert the best bang for your buck. 
+1. ** GET ON THE WATER ** . If it's within your budget to buy a property on the water and then fix it up, you'll get the best bang for your buck. 
 2. Pursue increasing both the grade value by the cities standards and increasing the overall condition of the house. Landscaping and paint are a great way to do this on a budget. 
 3. Square footage is always important as you would imagine, but if you're going to add on a room, make it a bathroom. 
 4. When it's time to sell, the more views the better. Hire a real estate agent to get the word out for you, the more visibility the better. Also, when it's time to sell, sell in either March or April. 
 
 ## Further Analysis ##
 
-The limitation of this analysis were clearly stated above. Depending on the needs of the individual, this model may not be appropriate. It would be helpful to use the methods presented in this analysis as a template for analysis for custom needs. It would also be interesting to add a few more features to the data set that tend to be important to buyers such as information concerning the kitchen, backyard (yes/no, size, features), and garage (yes/no, sqft), and school districts. 
+The limitation of this analysis were clearly stated above. Depending on the needs of the individual, this model may not be appropriate. It would be helpful to use the methods presented in this analysis as a template for analysis for custom needs. It would also be interesting to add a few more features to the dataset that tend to be important to buyers such as information concerning the kitchen, backyard (yes/no, size, features), garage (yes/no, sqft), and school districts. 
+
+## Self Analysis ##
+
+This project was much more conceptually challenging to me and I can tell there are still some concepts that feel fuzzy, especially validation and interpretation. I felt much more confident in my coding and visualization skills, and didn't feel limited by those things much during this project. Moving forward I feel I need to continue performing linear regression analysis in my spare time to maintain and master the skill. 
+
+# Thank you & Happy Flipping! #
+
 
 

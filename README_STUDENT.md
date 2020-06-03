@@ -1,5 +1,5 @@
 # Module 2 Project: Housing Predictions for House Flippers #
-! [King_County](King_County.png)
+![King County](King_County.png)
 
 ## Overview ##
 
